@@ -28,6 +28,7 @@ __Valuable__:
 * [x] Developer Value
 
 ---
+
 ## 401 - What's New in Xcode App Signing
 ## 201 - Internationalization Best Practices
 ## 202 - What's New in Accessibility
@@ -35,6 +36,18 @@ __Valuable__:
 ## 801 - Inclusive App Design
 ## 701 - Introducing Apple File System
 ## 403 - Swift API Design Guidelines
+__Brief Description__: Swift 3 introduces new API Design Guidelines specifically crafted to the unique character of Swift for clear, concise code. This talk will explore the philosophy behind the Swift API Design Guidelines and their application throughout the Swift Standard Library and the Cocoa and Cocoa Touch APIs. See how this API transformation will affect your Swift code and learn how to ensure a smooth transition to Swift 3. Learn how Swift 3 imports Objective-C APIs and how to expose rich Swift interfaces for existing Objective-C libraries.
+
+__Link to Notes__: [403 - Swift API Design Guidelines](403_swift_api_design_guidelines.md)
+
+__Watched by:__ @naglerrr
+
+__Valuable__:
+* [ ] User Value
+* [x] Developer Value
+
+---
+
 ## 501 - Advances in iOS Photography
 ## 702 - Using Store Kit for In-App Purchases with Swift 3
 ## 204 - iMessage Apps and Stickers, Part 1
