@@ -50,6 +50,18 @@ __Valuable__:
 
 ## 501 - Advances in iOS Photography
 ## 702 - Using Store Kit for In-App Purchases with Swift 3
+__Brief Description__: The StoreKit API allows apps to request payment for additional functionality or content. Hear about the latest changes to StoreKit including Swift 3.0 APIs, updates to Subscriptions and using StoreKit with iMessage apps. Learn best practices for receipt management and Sandbox testing.
+
+__Link to Notes__: [702 - Using Store Kit for In-App Purchases with Swift 3](702_using_store_kit_for_inapp_purchases_with_swift_3.md)
+
+__Watched by:__ @naglerrr
+
+__Valuable__:
+* [ ] User Value
+* [x] Developer Value
+
+---
+
 ## 204 - iMessage Apps and Stickers, Part 1
 ## 703 - Apple Pay on the Web
 ## 404 - Getting Started with Swift
