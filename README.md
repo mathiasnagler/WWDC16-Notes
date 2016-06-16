@@ -147,6 +147,18 @@ __Valuable__:
 ## 710 - What's New in HomeKit
 ## 410 - System Trace in Depth
 ## 219 - What's New in UICollectionView in iOS 10
+__Brief Description__: UICollectionView is a powerful class allowing your app to manage and customize the layout of views. iOS 10 brings enhancements for better performance, easier layout and brings features you've been looking for. Learn how to make your apps richer and faster by using new features in UICollectionView and its sibling, UITableView.
+
+__Link to Notes__: [219 - What's New in UICollectionView in iOS 10](219_what's_new_in_uicollectionview_in_ios_10.md)
+
+__Watched by:__ @naglerrr
+
+__Valuable__:
+* [x] User Value
+* [x] Developer Value
+
+---
+
 ## 608 - What's New in GameplayKit
 ## 221 - Optimizing On-Demand Resources
 ## 220 - Leveraging Touch Input on iOS
