@@ -29,3 +29,5 @@
     - Profiles referenced by name instead of unique id
     - No more project updates caused by Profile-Changes (!!!)
     - Safe-to-use capabilities tab: no changes
+- _"Sign release build with a dev cert, so you can run same binary on your device that you ship to app store (re-signed)"_ ([https://twitter.com/Daniel1of1/status/743131322126721025](https://twitter.com/Daniel1of1/status/743131322126721025))
+- _"💡 Very important tip from "New Code Signing" session: build & archive w/ a DEV cert. "Export" will re-sign for dist"_ ([https://twitter.com/aligatr/status/743148748138766336](https://twitter.com/aligatr/status/743148748138766336))
