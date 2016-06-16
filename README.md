@@ -77,6 +77,18 @@ __Valuable__:
 ## 703 - Apple Pay on the Web
 ## 404 - Getting Started with Swift
 ## 205 - What's New in Cocoa Touch
+__Brief Description__: The UIKit framework provides the crucial infrastructure needed to construct and manage iOS apps, and UIKit continues to advance the state of the art for app design with many new features. Dive straight into new features across the iOS frameworks that allow your apps to take advantage of many new system services, as well as to offer services to other apps. This is your first stop to discover the many sessions to see about harnessing the power of iOS 10.
+
+__Link to Notes__: [205 - What's New in Cocoa Touch](205_what's_new_in_cocoa_touch.md)
+
+__Watched by:__ @naglerrr
+
+__Valuable__:
+* [x] User Value
+* [x] Developer Value
+
+---
+
 ## 602 - Adopting Metal, Part 1
 ## 704 - What's New with Wallet and Apple Pay
 ## 603 - Adopting Metal, Part 2
@@ -88,9 +100,33 @@ __Valuable__:
 ## 302 - Introducing Search Ads
 ## 803 - Typography and Fonts
 ## 707 - Introduction to Notifications
+__Brief Description__: Push and locally scheduled notifications can provide people with timely information and provide them with the ability to take appropriate actions in response. Hear about the new APIs to schedule, respond to, and manage delivery of notifications. Learn how to write an extension to decrypt and augment push notifications before they are displayed.
+
+__Link to Notes__: [707 - Introduction to Notifications](707_introduction_to_notifications.md)
+
+__Watched by:__ @naglerrr
+
+__Valuable__:
+* [x] User Value
+* [ ] Developer Value
+
+---
+
 ## 503 - Advances in AVFoundation Playback
 ## 209 - Getting the Most Out of HealthKit
 ## 406 - Optimizing App Startup Time
+__Brief Description__: Launching an App is a complicated and subtle process and the ramifications on launch times of different App design patterns are often non-obvious. Come learn what happens in the time between when an App begins launching and when the main() function gets control and how that time relates to the code and structure of your App. Learn about the inner details of the dynamic loader, dyld, and best practices for structuring your code to perform at its best from the very start.
+
+__Link to Notes__: [406 - Optimizing App Startup Time](406_optimizing_app_startup_time.md)
+
+__Watched by:__ @naglerrr
+
+__Valuable__:
+* [x] User Value
+* [ ] Developer Value
+
+---
+
 ## 708 - Advanced Notifications
 ## 407 - Auditing Your Apps for Accessibility
 ## 303 - What's New in Apple Device Management
