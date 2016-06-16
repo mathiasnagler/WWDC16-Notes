@@ -5,9 +5,9 @@
 * Sanitizers find bugs at Runtime
 * Low overhead at Runtime
 * Address Sanitizer (**ASan**) introduced in Xcode 7
-* Address Sanitizer has fill Swift support with Xcode 8
+* Address Sanitizer has full Swift support with Xcode 8
 * Thread Sanitizer (**TSan**) new in Xcode 8
- * Detects use of unititialized mutex
+ * Detects use of uninitialized mutex
  * Detects thread leaks
  * Detects multiple threads locating the same memory address (ex: Race conditions)
  * Enable in Scheme -> Run -> Diagnostics
@@ -18,7 +18,7 @@
  * `xcodebuild -enableTrheadSanitizer YES` for command line builds
  * Supported on 64-bit simulators only
  * Instruments **every** memory access, so it can find (most) races
- * Run **all** tests with **TSan** turend on
+ * Run **all** tests with **TSan** turned on
  * Timing does not matter for **TSan**, so it can find hard to reproduce issues
 * Do not build your own synchronization methods, instead use
  * GCD (preferred)
@@ -28,7 +28,7 @@
 ---
 ## Static analyzer (new rules)
 
-### Missing Localizibility
+### Missing Localizability
 * Detects non-localized user-facing strings (enabled by default)
 * Detects missing comments for localization (disabled by default)
 * Can be configured in build settings
@@ -39,5 +39,5 @@
 * **Just use ARC instead**
 
 ### Nullability Violations
-* Use nullablity annotations
+* Use Nullability annotations
 * Detects nullability violations in Objective-C code
