@@ -30,6 +30,17 @@ __Valuable__:
 ---
 
 ## 401 - What's New in Xcode App Signing
+
+__Brief Description__: Xcode provides powerful options for managing projects for small and large development teams. Learn how new features in Xcode simplify the process of certificate management, app signing and configuration of your project's build settings.
+
+__Link to Notes__: [401 - What's New in Xcode App Signing](401_whats_new_in_xcode_app_signing.md)
+
+__Watched by:__ @fonkadelic
+
+__Valuable__:
+* [ ] User Value
+* [x] Developer Value
+
 ## 201 - Internationalization Best Practices
 ## 202 - What's New in Accessibility
 ## 601 - Go Live with ReplayKit
