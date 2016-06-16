@@ -41,6 +41,8 @@ __Valuable__:
 * [ ] User Value
 * [x] Developer Value
 
+---
+
 ## 201 - Internationalization Best Practices
 ## 202 - What's New in Accessibility
 ## 601 - Go Live with ReplayKit
@@ -128,6 +130,19 @@ __Valuable__:
 ---
 
 ## 708 - Advanced Notifications
+
+__Brief Description__: 3D Touch on Notifications provides users with access to media attachments and live content. See how your app can take advantage of this new functionality to provide a rich interactive experience within the notification itself.
+
+__Link to Notes__: [708 - Advanced Notifications](708_Advanced_Notifications.md)
+
+__Watched by:__ @fonkadelic
+
+__Valuable__:
+* [x] User Value
+* [x] Developer Value
+
+---
+
 ## 407 - Auditing Your Apps for Accessibility
 ## 303 - What's New in Apple Device Management
 ## 604 - What's New in Metal, Part 1
