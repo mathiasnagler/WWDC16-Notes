@@ -178,6 +178,18 @@ __Valuable__:
 ## 221 - Optimizing On-Demand Resources
 ## 220 - Leveraging Touch Input on iOS
 ## 412 - Thread Sanitizer and Static Analysis
+__Brief Description__: Xcode 8 makes it easier to find several new categories of bugs with improvements in Runtime Sanitization and the Clang Static Analyzer. The Thread Sanitizer will help you find data races and other concurrency bugs. The static analyzer has been extended to search for localizability issues, check nullability, and find memory leaks in MRR code.
+
+__Link to Notes__: [412 - Thread Sanitizer and Static Analysis](412_thread_sanitizer_and_static_analysis.md)
+
+__Watched by:__ @naglerrr
+
+__Valuable__:
+* [ ] User Value
+* [x] Developer Value
+
+---
+
 ## 711 - NSURLSession: New Features and Best Practices
 ## 222 - Making Apps Adaptive, Part 1
 ## 505 - Live Photo Editing and RAW Processing with Core Image
