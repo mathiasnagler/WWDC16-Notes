@@ -194,6 +194,18 @@ __Valuable__:
 ## 222 - Making Apps Adaptive, Part 1
 ## 505 - Live Photo Editing and RAW Processing with Core Image
 ## 223 - Making the Most of Search APIs
+__Brief Description__: Search APIs make it easy for users to discover information in your app and the app itself. New features expand the search capabilities allowing users to search directly in your app and enable you to search your own app index. Learn about the latest API updates and the new privacy-friendly method for improving the ranking of your app content.
+
+__Link to Notes__: [223 - Making the Most of Search APIs](223_making_the_most_of_search_apis.md)
+
+__Watched by:__ @naglerrr
+
+__Valuable__:
+* [x] User Value
+* [x] Developer Value
+
+---
+
 ## 609 - Advances in SceneKit Rendering
 ## 225 - Extending Your Apps with SiriKit
 ## 413 - Introduction to Xcode
