@@ -62,5 +62,5 @@
 - `SQLITE_ENABLE_LOGGING=1`
 - File operation are now safer: Prevents Corrupt Data  (`SQLITE_ENABLE_FILE_ASSERTIONS=1`)
 - PSC operations are safe:
-    - `replacePersistentStore()` 
+    - `replacePersistentStore()`
     - `destroyPersistentStore()`
