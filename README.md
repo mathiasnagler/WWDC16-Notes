@@ -225,6 +225,17 @@ __Valuable__:
 ## 232 - What's New in International User Interfaces
 ## 231 - CloudKit Best Practices
 ## 242 - What's New in Core Data
+__Brief Description__: Core Data is a framework that you can use to manage the model layer objects in your application, providing generalized and automated solutions to common tasks associated with object life cycle, object graph management, and persistence. Learn about the latest advancements in and explore best practices for taking full advantage of this powerful framework.
+
+__Link to Notes__: [242 - What's New in Core Data](242_what's_new_in_core_data.md)
+
+__Watched by:__ @naglerrr
+
+__Valuable__:
+* [ ] User Value
+* [x] Developer Value
+
+---
 ## 234 - What's New in ResearchKit
 ## 611 - What's New in Game Center
 ## 719 - Optimizing I/O for Performance and Battery Life
