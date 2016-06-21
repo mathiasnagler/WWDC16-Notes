@@ -97,6 +97,17 @@ __Valuable__:
 ## 502 - Getting Published in Apple News
 ## 301 - Introducing Expanded Subscriptions in iTunes Connect
 ## 705 - How iOS Security Really Works
+__Brief Description__: Have you saved our 63-page iOS security white paper to your Reading List but find yourself too busy making great apps to get through it? You can keep your good intentions to devour every last detail, but meanwhile come join us for an illuminating talk on why we care so deeply about security as a design philosophy central to all our iOS products.
+
+__Link to Notes__: [705 - How iOS Security Really Works](705_how_ios_security_really_works.md)
+
+__Watched by:__ @fonkadelic
+
+__Valuable__:
+* [x] User Value
+* [x] Developer Value
+---
+
 ## 405 - What's New in LLVM
 ## 706 - What's New in Security
 ## 302 - Introducing Search Ads
