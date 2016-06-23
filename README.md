@@ -203,7 +203,21 @@ __Valuable__:
 ---
 
 ## 711 - NSURLSession: New Features and Best Practices
+
 ## 222 - Making Apps Adaptive, Part 1
+
+__Brief Description__: In this first part of a two part series, explore the motivation and concepts necessary to take advantage of trait collections. Walk through building an interface in Xcode and learn from the experts how to take advantage of new features to more easily create your app for different device sizes and configurations.
+
+__Link to Notes__: [222 - Making Apps Adaptive, Part 1](222_making_apps_adaptive_part1.md)
+
+__Watched by:__ @fonkadelic
+
+__Valuable__:
+* [ ] User Value
+* [x] Developer Value
+
+---
+
 ## 505 - Live Photo Editing and RAW Processing with Core Image
 ## 223 - Making the Most of Search APIs
 __Brief Description__: Search APIs make it easy for users to discover information in your app and the app itself. New features expand the search capabilities allowing users to search directly in your app and enable you to search your own app index. Learn about the latest API updates and the new privacy-friendly method for improving the ranking of your app content.
