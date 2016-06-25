@@ -7,7 +7,7 @@
     - Prefetch everything
     - Write lots of code
 - Provide UI with stable data
-- All reads from a context see singe generation of data
+- All reads from a context see single generation of data
 - Deleted objects remain still visible in specific context
 - On save merge policy is applied and a new generation is generated
 - Generations happen transactionality at context level

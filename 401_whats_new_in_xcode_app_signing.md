@@ -19,7 +19,7 @@
     - Only for Develop Signing: Distribution is not modified by automatic signing
     - Works only with Xcode created Profiles
 - **Customized Signing:**
-    - Full Control over signign: Xcode never changes signing settings
+    - Full Control over signing: Xcode never changes signing settings
     - Enabled by unchecking Automatic-Signing
     - Can completly configured under General-Tab
     - Useful if project uses CI
