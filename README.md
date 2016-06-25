@@ -272,6 +272,19 @@ __Valuable__:
 ## 417 - Debugging Tips and Tricks
 ## 237 - Getting Started with CareKit
 ## 418 - Using Time Profiler in Instruments
+
+__Brief Description__: Learn how to make your apps faster and more efficient in this introduction to Time Profiler in Instruments. Walk through how to use Time Profiler to measure your app's performance. Learn how Time Profiler works and can be used to identify problems and verify your fixes. Discover how easy it is to improve your app's power usage and performance by using Instruments throughout your development process.
+
+__Link to Notes__: [418 - Using Time Profiler in Instruments](418_using_time_profiler_in_instruments.md)
+
+__Watched by:__ @fonkadelic
+
+__Valuable__:
+* [ ] User Value
+* [x] Developer Value
+
+---
+
 ## 236 - What's New in Auto Layout
 ## 238 - Measurements and Units
 ## 720 - Concurrent Programming With GCD in Swift 3
